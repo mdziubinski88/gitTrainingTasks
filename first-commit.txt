@@ -1,0 +1,1 @@
+Jest to wprowadzona funkcjonalnośc do pliku first-commit.tx:t
