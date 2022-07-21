@@ -1,1 +1,1 @@
-Jest to wprowadzona funkcjonalnośc do pliku first-commit.tx:t
+Jest to wprowadzona funkcjonalnośc do pliku first-commit.txt
